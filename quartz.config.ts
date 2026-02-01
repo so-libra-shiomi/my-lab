@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "so-libra-shiomi.github.io/my-lab",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian","copilot"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
